@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scunthorpe-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/scunthorpe-app/static/js/main.67b22be0.chunk.js",
+    "main.js.map": "/scunthorpe-app/static/js/main.67b22be0.chunk.js.map",
+    "runtime-main.js": "/scunthorpe-app/static/js/runtime-main.19876d3a.js",
+    "runtime-main.js.map": "/scunthorpe-app/static/js/runtime-main.19876d3a.js.map",
+    "static/js/2.cd930777.chunk.js": "/scunthorpe-app/static/js/2.cd930777.chunk.js",
+    "static/js/2.cd930777.chunk.js.map": "/scunthorpe-app/static/js/2.cd930777.chunk.js.map",
+    "index.html": "/scunthorpe-app/index.html",
+    "precache-manifest.0817676b92ca17287ac5d7e811d29ecf.js": "/scunthorpe-app/precache-manifest.0817676b92ca17287ac5d7e811d29ecf.js",
+    "service-worker.js": "/scunthorpe-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/scunthorpe-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/scunthorpe-app/static/media/logo.25bf045c.svg"
+  }
+}
