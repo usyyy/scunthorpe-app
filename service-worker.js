@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/scunthorpe-app/precache-manifest.03f6dc36cf82466ff02e17c3d91c5db3.js"
+  "/scunthorpe-app/precache-manifest.a74f5994c1b9ce0748a731edeca4bf2e.js"
 );
 
 self.addEventListener('message', (event) => {
